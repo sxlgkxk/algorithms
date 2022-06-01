@@ -1,20 +1,13 @@
-- [1. Sort](#1-sort)
-- [2. Heuristic](#2-heuristic)
-
-# 1. Sort
-- bubbleSort: done
-
-# 2. Heuristic
-- PSO: doing
+# 1. codewars
+- [5f70c883e10f9e0001c89673 ](https://raw.githubusercontent.com/sxlgkxk/algorithms/main/codewars/5f70c883e10f9e0001c89673.py)
 
 
+# 2. golang
 
+<details>
+<summary>refining</summary>
 
-
-
-
-
-
+</details>
 
 
 
